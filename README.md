@@ -234,4 +234,4 @@ This repository serves as the official landing page for Windows 2000 SP2. The so
 **Get the most recent version of Windows 2000 SP2 today!**
 
 ---
-**Last updated:** 2026-09-22 14:37:48 UTC
+**Last updated:** 2026-09-22 18:43:13 UTC
